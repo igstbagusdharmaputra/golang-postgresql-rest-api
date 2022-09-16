@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"gitlab.com/idoko/bucketeer/db"
-	"gitlab.com/idoko/bucketeer/handler"
+	"github.com/igstbagusdharmaputra/golang-postgresql-rest-api/db"
+	"github.com/igstbagusdharmaputra/golang-postgresql-rest-api/handler"
 	"log"
 	"net"
 	"net/http"
